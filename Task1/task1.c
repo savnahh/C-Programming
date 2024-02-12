@@ -1,5 +1,4 @@
 //Savona Shrestha
-//2330777
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
